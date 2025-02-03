@@ -15,7 +15,6 @@ This project focuses on optimizing **Convolutional Neural Networks (CNNs)** by l
 - **CUDA:** For parallel execution on NVIDIA GPUs.  
 - **OpenMP:** For parallel execution using CPU multithreading.  
 - **Jupyter Notebook:** For testing and experimentation.  
-- **C/C++:** As the core programming languages.  
 
 ---
 
