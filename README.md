@@ -764,20 +764,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 }
 ```
 
----
 
-## 📧 Contact & Support
-
-**Development Team:**
-- **👨‍💻 Lead Developer:** [Your Name] - [your.email@university.edu]
-- **🔬 Research Supervisor:** [Supervisor Name] - [supervisor@university.edu]
-- **🏛️ Institution:** [Your University/Organization]
-
-**Support Channels:**
-- **📧 Email:** cnn.optimization@gmail.com
-- **💻 GitHub Issues:** [GitHub Issues Page]
-- **📚 Documentation:** [Project Wiki]
-- **💬 Discussions:** [GitHub Discussions]
 
 ---
 
@@ -1363,7 +1350,5 @@ Academic Recognition:
   <p><strong>⭐ Star this repository if it helped your research! ⭐</strong></p>
   <p>Built with ❤️ for High Performance Computing and Deep Learning Communities</p>
   
-  <img src="https://img.shields.io/github/stars/yourusername/cnn-cuda-openmp-optimization?style=social" alt="GitHub Stars">
-  <img src="https://img.shields.io/github/forks/yourusername/cnn-cuda-openmp-optimization?style=social" alt="GitHub Forks">
-  <img src="https://img.shields.io/github/watchers/yourusername/cnn-cuda-openmp-optimization?style=social" alt="GitHub Watchers">
+
 </div>
